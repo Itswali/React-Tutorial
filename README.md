@@ -49,9 +49,9 @@
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1] - **
-- **[key_feature_2] - **
-- **[key_feature_3] - **
+- **[key_feature_1] - user can add todo task**
+- **[key_feature_2] - user can edit todo task**
+- **[key_feature_3] - user can easily hide/delete the tasks **
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -61,7 +61,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+<!-- - [Live Demo Link](https://yourdeployedapplicationlink.com) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -164,7 +164,7 @@ You can deploy this project using [Github Pages](https://docs.github.com/en/page
 
 - [ ] **Addition of a home page**
 - [ ] **Addition of a contact page**
-- [ ] **Show the calculator when user click the show Button.**
+- [ ] **Show the TO-Do List when user click the show Button.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
